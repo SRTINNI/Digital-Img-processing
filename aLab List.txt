@@ -1,0 +1,13 @@
+1. write a program to read and display digital image using MATLAB......ok
+2. write a program to perform zooming and shrinking an image...........ok
+3. Write a program to perform convolution operation for 1D and 2D data in MATLAB....ok
+4. To write and execute programs for image arithmetic operations.....ok
+5. Write a program in MATLAB for histogram calculation and equalization......ok
+6. Erosion and Dilation.......ok
+6. opening and closing........ok
+7. Boundary Extraction........ok
+8. write and execute programs to remove noise using spatial filters....ok
+9. write and execute programs for img frequency domain filtering.......ok
+10. write a program in matlab for edge detection using different operators....ok
+11. to understand various img noise models and to write programs for img restoration...ok
+12. write a program to perform conversion btn color spaces....ok

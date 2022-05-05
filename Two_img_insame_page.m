@@ -1,0 +1,8 @@
+a = imread('E:\SEMESTER 4.1\LABs\img1.png')
+b = imread('E:\SEMESTER 4.1\LABs\img4.png')
+subplot(1,2,1)
+imshow(a)
+title('first image')
+subplot(1,2,2)
+imshow(b)
+title('second image')
